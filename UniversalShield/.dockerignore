@@ -1,6 +1,0 @@
-target/
-data/devdb*
-node_modules/
-.git/
-.env
-*.zip
