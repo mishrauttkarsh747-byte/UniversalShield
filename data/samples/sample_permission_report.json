@@ -1,0 +1,10 @@
+{
+  "appName": "Quick Loan Express (synthetic example)",
+  "permissions": [
+    "android.permission.READ_CONTACTS",
+    "android.permission.READ_SMS",
+    "android.permission.ACCESS_FINE_LOCATION",
+    "android.permission.CAMERA",
+    "android.permission.INTERNET"
+  ]
+}
